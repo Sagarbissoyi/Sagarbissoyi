@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working in a DMA role at Bajaj Finance.<br>👯 I am open to collaborating on web development projects and real world applications.<br>🤝 I am looking for guidance in system design, backend architecture, and deployment best practices<br>🌱I am learning Full Stack MERN development with a focus on building production level web applications.<br>💬 Ask me about JavaScript, React basics, MongoDB fundamentals, and REST APIs<br>⚡ Fun fact: I transitioned into tech through self study and disciplined daily practice.
+🔭 I am currently working in a DMA role at Bajaj Finance.<br>👯 I am open to collaborating on web development projects and real world applications.<br>🤝 I am looking for guidance in system design, backend architecture, and deployment best practices<br>🌱I am specializing in Full Stack MERN development with an emphasis on scalable, production grade web applications.<br>💬 Ask me about JavaScript, React basics, MongoDB fundamentals, and REST APIs<br>⚡ Fun fact: I transitioned into software development through structured self study and consistent daily execution.
 
 
 ## 🌐 Socials:
